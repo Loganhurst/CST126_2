@@ -1,12 +1,12 @@
 # CST126_2 - Stock Picker
 
-**Class ID:** <Your ID here>
+**Class ID:** Scotched
 
-**Assignement ID:** CST126_01
+**Assignement ID:** CST126_02
 
-**Unresolved Issues:**
+**Unresolved Issues: Output formating issues with the posision 1 and 2 in the array.
 
-**Notes:**
+**Notes: Fun assingment, taught me alot about constructors and overloading.
 
 
 ---

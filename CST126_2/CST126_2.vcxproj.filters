@@ -40,5 +40,6 @@
     <None Include="..\README.md">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="quotes.csv" />
   </ItemGroup>
 </Project>
